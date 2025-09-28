@@ -109,7 +109,7 @@ export var DataJson = `
 	"Browse Graphic": "N/A",
 	"Data Set Credit - Where Credited": "### TO DO ###",
 	"Data Set Size at Reception": "2,169 KB",
-	"Data Category": "Human Use & Users, Test layer 1, Test layer 2, Test layer 3, Test layer 4",
+	"Data Category": "Human Use & Users",
 	"Indirect Spatial Reference": "Peel Island, Bribie Island, Tangalooma",
 	"Direct Spatial Reference": "Point",
 	"Point and Vector Object Information": "Latitude, longitude pairs",
@@ -609,4 +609,5 @@ export var DataJson = `
 	"External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={DDC1C1C2-5589-463B-854A-D633ADB52D8E}"
 }
 }
+
 `;
