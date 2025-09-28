@@ -105,7 +105,7 @@ export var DataJson = `
     "1.9 Browse Graphic": "N/A",
     "1.10 Data Set Credit - Where Credited": "### TO DO ###",
     "1.11 Data Set Size at Reception": "2,169 KB",
-    "1.12 Data Category": "Human Use & Users",
+    "1.12 Data Category": "Human Use & Users, Test layer 1, Test layer 2, Test layer 3, Test layer 4",
     "2.1 Indirect Spatial Reference": "Peel Island, Bribie Island, Tangalooma",
     "2.2 Direct Spatial Reference": "Point",
     "2.3 Point and Vector Object Information": "Latitude, longitude pairs",
