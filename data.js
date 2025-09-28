@@ -96,38 +96,6 @@ export var DataJson = `
 	"Available in Platform": "### TO DO ###",
 	"External Metadata Reference": "https://www.publications.qld.gov.au/dataset/brisbane-port-procedures-and-information-for-shipping/resource/55e36402-ea28-499f-a46e-93368765337e"
 },
-"Boating Activity":
-{
-	"Citation": "### TO DO ###",
-	"Description": "### TO DO ###",
-	"Time Period of Content": "23/07/2016 - 26/02/2023",
-	"Spatial Domain": "[-27.5317, 153.0965], [ -27.0227, 153.4216]",
-	"Keywords": "boats, recreation, activity, moreton bay, satellites, detections, machine learning",
-	"Access Constraints": "Access upon request",
-	"Use Constraints": "Creative Commons Attribution 4.0",
-	"Point of Contact": "Dr Aiden Price (a11.price@qut.edu.au)",
-	"Browse Graphic": "N/A",
-	"Data Set Credit - Where Credited": "### TO DO ###",
-	"Data Set Size at Reception": "2,169 KB",
-	"Data Category": "Human Use & Users",
-	"Indirect Spatial Reference": "Peel Island, Bribie Island, Tangalooma",
-	"Direct Spatial Reference": "Point",
-	"Point and Vector Object Information": "Latitude, longitude pairs",
-	"Horizontal Coordinate System Definition": "Latitude, longitude",
-	"Vertical Coordinate System Definition": "N/A",
-	"Detailed Description": "### TO DO ###",
-	"Overview Description": "### TO DO ###",
-	"Data Custodian": "Queensland University of Technology",
-	"Resource Description": "### TO DO ###",
-	"Standard Order Process": "Files sent directly",
-	"Technical Prerequisites": "Software to open .csv files and software capable of placing long/lat points on a mapping interface.",
-	"Metadata Date": "31/03/2025",
-	"Metadata Standard Name": "E2468 - Standard Practice for Metadata to Support Archived Data Management Systems",
-	"Metadata Standard Version": "5",
-	"Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
-	"Available in Platform": "Yes",
-	"External Metadata Reference": "N/A"
-},
 "Moreton Bay Social Values Survey":
 {
 	"Citation": "### TO DO ###",
@@ -611,3 +579,4 @@ export var DataJson = `
 }
 
 `;
+
