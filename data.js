@@ -291,7 +291,7 @@ export var DataJson = `
     "1.9 Browse Graphic": "### TO DO ###",
     "1.10 Data Set Credit - Where Credited": "### TO DO ###",
     "1.11 Data Set Size at Reception": "593 MB",
-    "1.12 Data Category": "Environmental Change & Monitoring",
+    "1.12 Data Category": "Environmental Change & Monitoring & Words to show wrapping, This is a second layer and the text here showcases that subheadings wrap, this theme continues of for the third layer too which should also wrap, the fourth layer actually still wraps too as shown here, the last layer also has wrapping capabilities shown here",
     "2.1 Indirect Spatial Reference": "Moreton Bay",
     "2.2 Direct Spatial Reference": "N/A",
     "2.3 Point and Vector Object Information": "N/A",
