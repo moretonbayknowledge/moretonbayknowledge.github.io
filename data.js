@@ -1,7 +1,9 @@
-export var DataJson = `{
-  "Coral Classification Survey": {
+export var DataJson = `
+{
+"Coral Classification Survey": 
+{
     "Citation": "### TO DO ###",
-    "Description": "Since 2001, Reef Check Australia (RCA) has supported citizen science reef monitoring projects on reefs around Australia. For the past 20 years, our surveys have helped with the collection of long-term data relating to reef health at a local, national and global scale. RCA's survey methods collect quantitative data for substrate cover, key invertebrate species, target fish species, as well as anthropogenic and natural impacts in reef habitats. Teams of trained volunteers monitored a total of 30 locations on 18 different reefs, which included survey sites ranging from Mudjimba Island on the Sunshine Coast to Cook Island south of the Gold Coast. Of these 30 locations, 2 reefs were surveyed twice annually (Mud Island ' Coral Galore and Rubble Patch), all remaining sites were only surveyed once. Green Island and St Helena Island are typically surveyed twice annually, however the flood event this year prevented the summer surveys from taking place. 12,000m2 of reef habitat was surveyed in total during the 2021- 2022 season (where one survey covers 400m2 ), resulting in more than 4800 pieces of substrate data collected, and more than 1,440 hours donated by trained volunteers.",
+    "Description": "Since 2001, Reef Check Australia (RCA) has supported citizen science reef monitoring projects on reefs around Australia. For the past 20 years, our surveys have helped with the collection of long-term data relating to reef health at a local, national and global scale. RCA�s survey methods collect quantitative data for substrate cover, key invertebrate species, target fish species, as well as anthropogenic and natural impacts in reef habitats. Teams of trained volunteers monitored a total of 30 locations on 18 different reefs, which included survey sites ranging from Mudjimba Island on the Sunshine Coast to Cook Island south of the Gold Coast. Of these 30 locations, 2 reefs were surveyed twice annually (Mud Island � Coral Galore and Rubble Patch), all remaining sites were only surveyed once. Green Island and St Helena Island are typically surveyed twice annually, however the flood event this year prevented the summer surveys from taking place. 12,000m2 of reef habitat was surveyed in total during the 2021- 2022 season (where one survey covers 400m2 ), resulting in more than 4800 pieces of substrate data collected, and more than 1,440 hours donated by trained volunteers.",
     "Time Period of Content": "1/1/2006 - 17/06/2023",
     "Spatial Domain": "[-28.110402, 113.964251] , [-13.8439334999999, 153.576605]",
     "Keywords": "coral reefs, reef health, marine ecosystems, marine monitoring, biodiversity, substrate cover",
@@ -279,7 +281,7 @@ export var DataJson = `{
     "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/viewMetadataDetails.page?uuid=%7B135EB151-D406-4094-9E9F-40ABC5AA0C7B%7D"
   },
   "Satellite Mosaic of Moreton Bay 2018": {
-    "Citation": "Allen Coral Atlas (2020). Imagery, maps and monitoring of the world's tropical coral reefs. doi.org/10.5281/zenodo.3833242 Allen Coral Atlas maps, bathymetry and map statistics are ' 2020 Allen Coral Atlas Partnership and Vulcan, Inc. and are licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) The Satellite Coral Reef Mosaic is ' 2020 Planet Labs and licensed CC BY-SA-NC 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "Citation": "Allen Coral Atlas (2020). Imagery, maps and monitoring of the world�s tropical coral reefs. doi.org/10.5281/zenodo.3833242 Allen Coral Atlas maps, bathymetry and map statistics are � 2020 Allen Coral Atlas Partnership and Vulcan, Inc. and are licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) The Satellite Coral Reef Mosaic is � 2020 Planet Labs and licensed CC BY-SA-NC 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
     "Description": "Satellite mosaics covering the Moreton Bay Marine Park in 2018, provided by the Allen Coral Atlas in partnership with Planet Labs.",
     "Time Period of Content": "2018",
     "Spatial Domain": "### TO DO ###",
@@ -310,7 +312,7 @@ export var DataJson = `{
     "External Metadata Reference": "### TO DO ###"
   },
   "Satellite Mosaic of Moreton Bay 2019": {
-    "Citation": "Allen Coral Atlas (2020). Imagery, maps and monitoring of the world's tropical coral reefs. doi.org/10.5281/zenodo.3833242 Allen Coral Atlas maps, bathymetry and map statistics are ' 2020 Allen Coral Atlas Partnership and Vulcan, Inc. and are licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) The Satellite Coral Reef Mosaic is ' 2020 Planet Labs and licensed CC BY-SA-NC 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "Citation": "Allen Coral Atlas (2020). Imagery, maps and monitoring of the world�s tropical coral reefs. doi.org/10.5281/zenodo.3833242 Allen Coral Atlas maps, bathymetry and map statistics are � 2020 Allen Coral Atlas Partnership and Vulcan, Inc. and are licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) The Satellite Coral Reef Mosaic is � 2020 Planet Labs and licensed CC BY-SA-NC 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
     "Description": "Satellite mosaics covering the Moreton Bay Marine Park in 2019, provided by the Allen Coral Atlas in partnership with Planet Labs.",
     "Time Period of Content": "2019",
     "Spatial Domain": "### TO DO ###",
@@ -341,7 +343,7 @@ export var DataJson = `{
     "External Metadata Reference": "### TO DO ###"
   },
   "Satellite Mosaic of Moreton Bay 2020": {
-    "Citation": "Allen Coral Atlas (2020). Imagery, maps and monitoring of the world's tropical coral reefs. doi.org/10.5281/zenodo.3833242 Allen Coral Atlas maps, bathymetry and map statistics are ' 2020 Allen Coral Atlas Partnership and Vulcan, Inc. and are licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) The Satellite Coral Reef Mosaic is ' 2020 Planet Labs and licensed CC BY-SA-NC 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "Citation": "Allen Coral Atlas (2020). Imagery, maps and monitoring of the world�s tropical coral reefs. doi.org/10.5281/zenodo.3833242 Allen Coral Atlas maps, bathymetry and map statistics are � 2020 Allen Coral Atlas Partnership and Vulcan, Inc. and are licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) The Satellite Coral Reef Mosaic is � 2020 Planet Labs and licensed CC BY-SA-NC 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
     "Description": "Satellite mosaics covering the Moreton Bay Marine Park in 2020, provided by the Allen Coral Atlas in partnership with Planet Labs.",
     "Time Period of Content": "2020",
     "Spatial Domain": "### TO DO ###",
@@ -434,13 +436,13 @@ export var DataJson = `{
     "External Metadata Reference": "https://store.pangaea.de/Publications/Roelfsema-etal_2018/MCCoral_Metadata.pdf"
   },
   "Marine Acoustic Telemetry Data": {
-    "Citation": "Hoenner X, Huveneers C, Steckenreuter A, Simpfendorfer C, Tattersall K, Jaine F, Atkins N, Babcock R, Brodie S, Burgess J, Campbell H, Heupel M, Pasquer P, Proctor R, Taylor MD, Udyawer V, Harcourt R (2017), Australia's continental-scale acoustic tracking database and its automated quality control process. Australian Ocean Data Network - DOI: 10.4225/69/5979810a7dd6f (http://dx.doi.org/10.4225/69/5979810a7dd6f)",
+    "Citation": "Hoenner X, Huveneers C, Steckenreuter A, Simpfendorfer C, Tattersall K, Jaine F, Atkins N, Babcock R, Brodie S, Burgess J, Campbell H, Heupel M, Pasquer P, Proctor R, Taylor MD, Udyawer V, Harcourt R (2017), Australia�s continental-scale acoustic tracking database and its automated quality control process. Australian Ocean Data Network - DOI: 10.4225/69/5979810a7dd6f (http://dx.doi.org/10.4225/69/5979810a7dd6f)",
     "Description": "This data was sourced from the Australian Ocean Data Network (https://animaltracking.aodn.org.au/) and contains marine acoustic detections associated with created and deployed transmitters throughout the Moreton Bay Marine Park from December 2009 through to October 2015. The data set contains over 100,000 detections of various species, including Australian bass, sandbar sharks, giant shovelnose rays, dugongs, and giant mud crabs. This data is a compilation of numerous projects conducted as part of the AODN and with connections to the Australian Institute of Marine Science (AIMS) and the Integrated Marine Observing System (IMOS).",
     "Time Period of Content": "2009-2015",
     "Spatial Domain": "[-27.781, 153.3048], [-27.3047, 153.6275]",
     "Keywords": "### TO DO ###",
     "Access Constraints": "Publicly Available",
-    "Use Constraints": "Creative Commons Attribution 4.0 International License. Any users of IMOS data are required to clearly acknowledge the source of the material derived from IMOS in the format: \"Data was sourced from Australia's Integrated Marine Observing System (IMOS) - IMOS is enabled by the National Collaborative Research Infrastructure strategy (NCRIS). The database is a centralised acoustic telemetry data repository maintained by the IMOS Animal Tracking Facility and the Australian Ocean Data Network (AODN, https://portal.aodn.org.au/).",
+    "Use Constraints": "Creative Commons Attribution 4.0 International License. Any users of IMOS data are required to clearly acknowledge the source of the material derived from IMOS in the format: \"Data was sourced from Australia�s Integrated Marine Observing System (IMOS) - IMOS is enabled by the National Collaborative Research Infrastructure strategy (NCRIS). The database is a centralised acoustic telemetry data repository maintained by the IMOS Animal Tracking Facility and the Australian Ocean Data Network (AODN, https://portal.aodn.org.au/).",
     "Point of Contact": "Xavier Hoenner (Xavier.Hoenner@utas.edu.au)",
     "Browse Graphic": "### TO DO ###",
     "Data Set Credit - Where Credited": "### TO DO ###",
@@ -465,7 +467,7 @@ export var DataJson = `{
     "External Metadata Reference": "https://catalogue-imos.aodn.org.au/geonetwork/srv/eng/catalog.search#/metadata/0ede6b3d-8635-472f-b91c-56a758b4e091"
   },
   "Moreton Bay Broadscale Habitats": {
-    "Citation": "' State of Queensland (Department of Environment and Science) 2023. Updated data available at http://qldspatial.information.qld.gov.au/catalogue//.",
+    "Citation": "� State of Queensland (Department of Environment and Science) 2023. Updated data available at http://qldspatial.information.qld.gov.au/catalogue//.",
     "Description": "Broadscale habitat types identified within the Moreton Bay Marine Park as part of the 2007 zoning review.",
     "Time Period of Content": "12/09/2007-02/12/2007",
     "Spatial Domain": "[-28.000, 153.000], [-26.8, 153.700]",
@@ -496,7 +498,7 @@ export var DataJson = `{
     "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={65603E85-B932-4BAB-9807-0864C83784ED}"
   },
   "Moreton Bay Marine Park Zoning": {
-    "Citation": "' State of Queensland (Department of Environment and Science) 2023",
+    "Citation": "� State of Queensland (Department of Environment and Science) 2023",
     "Description": "This dataset represents the zoning from the Marine Parks (Moreton Bay) Zoning Plan 2008 (which comes into effect 1 March 2009).",
     "Time Period of Content": "03/12/2007-01/03/2009",
     "Spatial Domain": "[-27.933261, 153.010147], [-26.802236, 153.611605]",
@@ -558,7 +560,7 @@ export var DataJson = `{
     "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={65300831-53D8-477F-A408-C5835FCF06B0}"
   },
   "Moreton Bay Marine Park Designated Areas": {
-    "Citation": "' State of Queensland (Department of Environment and Science) 2023. Updated data available at http://qldspatial.information.qld.gov.au/catalogue//.",
+    "Citation": "� State of Queensland (Department of Environment and Science) 2023. Updated data available at http://qldspatial.information.qld.gov.au/catalogue//.",
     "Description": "This dataset represents the designated areas from the Marine Parks (Moreton Bay) Zoning Plan 2008 (which comes into effect 1 March 2009).",
     "Time Period of Content": "03/12/2007-21/09/2010",
     "Spatial Domain": "[-27.919326, 153.034679], [-26.804513, 153.563301]",
