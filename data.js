@@ -1,4 +1,4 @@
-export var DataJson = `
+export var DataJson = 
 {
   "Coral Classification Survey": {
     "Citation": "### TO DO ###",
@@ -590,4 +590,4 @@ export var DataJson = `
     "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={DDC1C1C2-5589-463B-854A-D633ADB52D8E}"
   }
 }
-`;
+;
