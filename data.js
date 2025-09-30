@@ -455,7 +455,7 @@ export var DataJson = `
     "Detailed Description": "### TO DO ###",
     "Overview Description": "### TO DO ###",
     "Data Custodian": "Integrated Marine Observing System (IMOS)",
-    "Resource Description": "DOI: 10.4225/69/5979810a7dd6f",
+    "Resource Description": "### TO DO ###",
     "Standard Order Process": "Placeholder text.",
     "Technical Prerequisites": "Placeholder text.",
     "Metadata Date": "Placeholder text.",
