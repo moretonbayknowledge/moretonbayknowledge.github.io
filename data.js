@@ -441,7 +441,7 @@ export var DataJson = `
     "Spatial Domain": "[-27.781, 153.3048], [-27.3047, 153.6275]",
     "Keywords": "### TO DO ###",
     "Access Constraints": "Publicly Available",
-    "Use Constraints": "Creative Commons - Attribution 4.0 International",
+    "Use Constraints": "Creative Commons Attribution 4.0 International License. Any users of IMOS data are required to clearly acknowledge the source of the material derived from IMOS in the format: Data was sourced from Australia's Integrated Marine Observing System (IMOS) - IMOS is enabled by the National Collaborative Research Infrastructure strategy (NCRIS). The database is a centralised acoustic telemetry data repository maintained by the IMOS Animal Tracking Facility and the Australian Ocean Data Network (AODN, https://portal.aodn.org.au/).",
     "Point of Contact": "Placeholder text.",
     "Browse Graphic": "Placeholder text.",
     "Data Set Credit - Where Credited": "Placeholder text.",
