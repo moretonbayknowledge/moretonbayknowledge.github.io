@@ -22,7 +22,7 @@ export var DataJson = `
     "Overview Description": "Pending",
     "Data Custodian": "Reef Check Australia",
     "Resource Description": "Pending",
-    "Standard Order Process": "Pending",
+    "Standard Order Process": "Pending - TBC",
     "Technical Prerequisites": "Software to open .csv files",
     "Metadata Date": "31/03/2025",
     "Metadata Standard Name": "E2468 - Standard Practice for Metadata to Support Archived Data Management Systems",
