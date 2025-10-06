@@ -2,7 +2,6 @@ export var DataJson = `
 {
   "Coral Classification Survey": {
     "Citation": "Pending",
-    "Test Field": "Just seeing",
     "Description": "Since 2001, Reef Check Australia (RCA) has supported citizen science reef monitoring projects on reefs around Australia. For the past 20 years, our surveys have helped with the collection of long-term data relating to reef health at a local, national and global scale. RCA�s survey methods collect quantitative data for substrate cover, key invertebrate species, target fish species, as well as anthropogenic and natural impacts in reef habitats. Teams of trained volunteers monitored a total of 30 locations on 18 different reefs, which included survey sites ranging from Mudjimba Island on the Sunshine Coast to Cook Island south of the Gold Coast. Of these 30 locations, 2 reefs were surveyed twice annually (Mud Island � Coral Galore and Rubble Patch), all remaining sites were only surveyed once. Green Island and St Helena Island are typically surveyed twice annually, however the flood event this year prevented the summer surveys from taking place. 12,000m2 of reef habitat was surveyed in total during the 2021- 2022 season (where one survey covers 400m2 ), resulting in more than 4800 pieces of substrate data collected, and more than 1,440 hours donated by trained volunteers.",
     "Time Period of Content": "1/1/2006 - 17/06/2023",
     "Spatial Domain": "[-28.110402, 113.964251] , [-13.8439334999999, 153.576605]",
@@ -30,11 +29,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "### TO DO ###"
+    "External Metadata Reference": "### TO DO ###",
+    "Test Field": "Just seeing"
   },
   "Fish & Invertebrate Abundance Survey": {
     "Citation": "### TO DO ###",
-    "Test Field": "if this field",
     "Description": "Fish and invertebrate abundance survey data from 2007-2023 provided by Reef Check Australia. This survey data covers a range of sites within the Moreton Bay Marine Park and lists a range of fish and invertebrates observed during the survey, including barramundi, groupers, sea urchins, crown-of-thorns starfish, and anemone.",
     "Time Period of Content": "2007-2023",
     "Spatial Domain": "[-27.9, 153.0], [-26.8, 153.6]",
@@ -62,11 +61,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "### TO DO ###"
+    "External Metadata Reference": "### TO DO ###",
+    "Test Field": "if this field"
   },
   "Shipping and Boating Channels": {
     "Citation": "### TO DO ###",
-    "Test Field": "populates.",
     "Description": "Appendix 15.2 of Port Procedures and Information for Shipping - Port of Brisbane.",
     "Time Period of Content": "2018",
     "Spatial Domain": "N/A",
@@ -94,11 +93,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "### TO DO ###",
-    "External Metadata Reference": "https://www.publications.qld.gov.au/dataset/brisbane-port-procedures-and-information-for-shipping/resource/55e36402-ea28-499f-a46e-93368765337e"
+    "External Metadata Reference": "https://www.publications.qld.gov.au/dataset/brisbane-port-procedures-and-information-for-shipping/resource/55e36402-ea28-499f-a46e-93368765337e",
+    "Test Field": "populates."
   },
   "Boating Activity": {
     "Citation": "### TO DO ###",
-    "Test Field": "Place holder text.",
     "Description": "### TO DO ###",
     "Time Period of Content": "23/07/2016 - 26/02/2023",
     "Spatial Domain": "[-27.5317, 153.0965], [ -27.0227, 153.4216]",
@@ -126,11 +125,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "N/A"
+    "External Metadata Reference": "N/A",
+    "Test Field": "Place holder text."
   },
   "Moreton Bay Social Values Survey": {
     "Citation": "### TO DO ###",
-    "Test Field": "Place holder text.",
     "Description": "Different locations in Moreton Bay were surveyed and for each location respondents were asked what activities they conduct there, the frequency they visit, and why they visit under social values framework (Naturalistic, Aesthetic, Therapeutic, Utilitarian, Interpersonal, Seclusionistic, Negativistic, Ecologistic, Dominionistic, Humanistic, Cultural, Moralistic, Spiritual, Symbolic). Respondents were also asked to assign a total of 100 points between values based on how important each was to them.",
     "Time Period of Content": "2023",
     "Spatial Domain": "[-27.89013389, 153.0822778],[-26.82159739, 153.3988974]",
@@ -158,11 +157,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "### TO DO ###"
+    "External Metadata Reference": "### TO DO ###",
+    "Test Field": "Place holder text."
   },
   "Seagrass Extent Map 2004": {
     "Citation": "Roelfsema, Christiaan M; Kovacs, Eva M; Moffatt, David; Phinn, Stuart R; Hoseck, Steve (2015): Habitat map of seagrass cover derived from a supervised moderate-spatial-resolution multi-spectral satellite image, integrated with manual delineation and coincident field data, Moreton Bay, 2011, with link to shapefile [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.846271",
-    "Test Field": "Place holder text.",
     "Description": "A created seagrass presence/absence map for the optically complex waters of Moreton Bay. The capability to map seagrass meadows in waters of varying clarity using a consistent and repeatable method is an invaluable resource for conservation and management of seagrass regionally and globally. The map was created using an adaptation of a Google Earth Engine (GEE) cloud processing and machine learning algorithm which for seagrass, utilized citizen science spot check field data, Landsat 8 OLI imagery pulled directly from GEE, a bathymetry layer (30 m), slope derived from depth and a coral mask. This dataset consists of a shapefile that shows seagrass presence (? 25 % cover) and substrate mapped simultaneously for the turbid waters of the Western Bay coastline and the optically clear waters of the Eastern Banks, Moreton Bay, Queensland, Australia.",
     "Time Period of Content": "2004",
     "Spatial Domain": "[-27.365000, 153.310000]",
@@ -190,11 +189,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "### TO DO ###"
+    "External Metadata Reference": "### TO DO ###",
+    "Test Field": "Place holder text."
   },
   "Seagrass Extent Map 2011": {
     "Citation": "Roelfsema, Christiaan M; Kovacs, Eva M; Moffatt, David; Phinn, Stuart R; Hoseck, Steve (2015): Habitat map of seagrass cover derived from a supervised moderate-spatial-resolution multi-spectral satellite image, integrated with manual delineation and coincident field data, Moreton Bay, 2011, with link to shapefile [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.846271",
-    "Test Field": "Place holder text.",
     "Description": "A created seagrass presence/absence map for the optically complex waters of Moreton Bay. The capability to map seagrass meadows in waters of varying clarity using a consistent and repeatable method is an invaluable resource for conservation and management of seagrass regionally and globally. The map was created using an adaptation of a Google Earth Engine (GEE) cloud processing and machine learning algorithm which for seagrass, utilized citizen science spot check field data, Landsat 8 OLI imagery pulled directly from GEE, a bathymetry layer (30 m), slope derived from depth and a coral mask. This dataset consists of a shapefile that shows seagrass presence (? 25 % cover) and substrate mapped simultaneously for the turbid waters of the Western Bay coastline and the optically clear waters of the Eastern Banks, Moreton Bay, Queensland, Australia.",
     "Time Period of Content": "2011",
     "Spatial Domain": "[-27.365000, 153.310000]",
@@ -222,11 +221,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "### TO DO ###"
+    "External Metadata Reference": "### TO DO ###",
+    "Test Field": "Place holder text."
   },
   "Seagrass Extent Map 2015": {
     "Citation": "Kovacs, Eva M; Roelfsema, Christiaan M; Phinn, Stuart R; Lyons, Mitchell; Udy, James; Baltais, Simon (2021): Seagrass cover map for the optically complex waters of Moreton Bay, Queensland, Australia (2015) XXX [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.937501",
-    "Test Field": "Place holder text.",
     "Description": "A created seagrass presence/absence map for the optically complex waters of Moreton Bay. The capability to map seagrass meadows in waters of varying clarity using a consistent and repeatable method is an invaluable resource for conservation and management of seagrass regionally and globally. The map was created using an adaptation of a Google Earth Engine (GEE) cloud processing and machine learning algorithm which for seagrass, utilized citizen science spot check field data, Landsat 8 OLI imagery pulled directly from GEE, a bathymetry layer (30 m), slope derived from depth and a coral mask. This dataset consists of a shapefile that shows seagrass presence (? 25 % cover) and substrate mapped simultaneously for the turbid waters of the Western Bay coastline and the optically clear waters of the Eastern Banks, Moreton Bay, Queensland, Australia.",
     "Time Period of Content": "2015",
     "Spatial Domain": "[-27.365000, 153.310000]",
@@ -254,11 +253,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "### TO DO ###"
+    "External Metadata Reference": "### TO DO ###",
+    "Test Field": "Place holder text."
   },
   "Wetland Extent Classifications": {
     "Citation": "### TO DO ###",
-    "Test Field": "Place holder text.",
     "Description": "This dataset provides mapping of water bodies and wetland regional ecosystems at 1:100,000 scale across Queensland.",
     "Time Period of Content": "16/07/2007",
     "Spatial Domain": "[-29.194, 138.001], [-9.088, 153.612]",
@@ -286,11 +285,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/viewMetadataDetails.page?uuid=%7B135EB151-D406-4094-9E9F-40ABC5AA0C7B%7D"
+    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/viewMetadataDetails.page?uuid=%7B135EB151-D406-4094-9E9F-40ABC5AA0C7B%7D",
+    "Test Field": "Place holder text."
   },
   "Satellite Mosaic of Moreton Bay 2018": {
     "Citation": "Allen Coral Atlas (2020). Imagery, maps and monitoring of the world's tropical coral reefs. doi.org/10.5281/zenodo.3833242 Allen Coral Atlas maps, bathymetry and map statistics are � 2020 Allen Coral Atlas Partnership and Vulcan, Inc. and are licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) The Satellite Coral Reef Mosaic is � 2020 Planet Labs and licensed CC BY-SA-NC 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
-    "Test Field": "Place holder text.",
     "Description": "Satellite mosaics covering the Moreton Bay Marine Park in 2018, provided by the Allen Coral Atlas in partnership with Planet Labs.",
     "Time Period of Content": "2018",
     "Spatial Domain": "### TO DO ###",
@@ -318,11 +317,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "No",
-    "External Metadata Reference": "### TO DO ###"
+    "External Metadata Reference": "### TO DO ###",
+    "Test Field": "Place holder text."
   },
   "Satellite Mosaic of Moreton Bay 2019": {
     "Citation": "Allen Coral Atlas (2020). Imagery, maps and monitoring of the world's tropical coral reefs. doi.org/10.5281/zenodo.3833242 Allen Coral Atlas maps, bathymetry and map statistics are � 2020 Allen Coral Atlas Partnership and Vulcan, Inc. and are licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) The Satellite Coral Reef Mosaic is � 2020 Planet Labs and licensed CC BY-SA-NC 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
-    "Test Field": "Place holder text.",
     "Description": "Satellite mosaics covering the Moreton Bay Marine Park in 2019, provided by the Allen Coral Atlas in partnership with Planet Labs.",
     "Time Period of Content": "2019",
     "Spatial Domain": "### TO DO ###",
@@ -350,11 +349,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "No",
-    "External Metadata Reference": "### TO DO ###"
+    "External Metadata Reference": "### TO DO ###",
+    "Test Field": "Place holder text."
   },
   "Satellite Mosaic of Moreton Bay 2020": {
     "Citation": "Allen Coral Atlas (2020). Imagery, maps and monitoring of the world's tropical coral reefs. doi.org/10.5281/zenodo.3833242 Allen Coral Atlas maps, bathymetry and map statistics are � 2020 Allen Coral Atlas Partnership and Vulcan, Inc. and are licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) The Satellite Coral Reef Mosaic is � 2020 Planet Labs and licensed CC BY-SA-NC 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
-    "Test Field": "Place holder text.",
     "Description": "Satellite mosaics covering the Moreton Bay Marine Park in 2020, provided by the Allen Coral Atlas in partnership with Planet Labs.",
     "Time Period of Content": "2020",
     "Spatial Domain": "### TO DO ###",
@@ -382,11 +381,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "No",
-    "External Metadata Reference": "### TO DO ###"
+    "External Metadata Reference": "### TO DO ###",
+    "Test Field": "Place holder text."
   },
   "Reef Extent Map": {
     "Citation": "Roelfsema, Christiaan M; Loder, Jennifer; Host, Rachel; Kovacs, Eva M (2018): Benthic inventory of reefal areas in Moreton Bay, Australia [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.892402",
-    "Test Field": "Place holder text.",
     "Description": "This data contains inventories for reefal areas around Moreton Bay. The inventories for each reefal area were based on georeferenced spot check field data collected by volunteer teams in 2015 and 2016 (n=610). This field data was overlayed on high spatial resolution ZY-3 satellite imagery (5 m x 5 m pixels) captured in June 2014. Polygons were manually digitised around reefal areas by an expert from the Remote Sensing Research Centre using visual interpretation of the texture and colour of the pixels in the satellite imagery, as related to water depth, field data and local field knowledge. Polygons were subsequently assigned one of three categories (Coral on reef matrix, Soft Coral on Sand/Rubble, and, Algae on sand/rubble). The project was a collaborative citizen science project between Reef Check Australia, The University of Queensland Remote Sensing Research Centre and Healthy Waterways to collect benthic inventories for eight key subtropical reefal areas in Central Moreton Bay - Mud, Saint Helena, Green, King, Macleay, Goat, and Peel Islands, and, Myora Reef.]",
     "Time Period of Content": "2014",
     "Spatial Domain": "[-27.365000, 153.310000]",
@@ -414,11 +413,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://store.pangaea.de/Publications/Roelfsema-etal_2018/MCCoral_Metadata.pdf"
+    "External Metadata Reference": "https://store.pangaea.de/Publications/Roelfsema-etal_2018/MCCoral_Metadata.pdf",
+    "Test Field": "Place holder text."
   },
   "Benthic Inventory of Moreton Bay Reefs": {
     "Citation": "Roelfsema, Christiaan M; Loder, Jennifer; Host, Rachel; Kovacs, Eva M (2018): Benthic inventory of reefal areas in Moreton Bay, Australia [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.892402",
-    "Test Field": "Place holder text.",
     "Description": "This data contains inventories for reefal areas around Moreton Bay. The inventories for each reefal area were based on georeferenced spot check field data collected by volunteer teams in 2015 and 2016 (n=610). This field data was overlayed on high spatial resolution ZY-3 satellite imagery (5 m x 5 m pixels) captured in June 2014. Polygons were manually digitised around reefal areas by an expert from the Remote Sensing Research Centre using visual interpretation of the texture and colour of the pixels in the satellite imagery, as related to water depth, field data and local field knowledge. Polygons were subsequently assigned one of three categories (Coral on reef matrix, Soft Coral on Sand/Rubble, and, Algae on sand/rubble). The project was a collaborative citizen science project between Reef Check Australia, The University of Queensland Remote Sensing Research Centre and Healthy Waterways to collect benthic inventories for eight key subtropical reefal areas in Central Moreton Bay - Mud, Saint Helena, Green, King, Macleay, Goat, and Peel Islands, and, Myora Reef.]",
     "Time Period of Content": "2016",
     "Spatial Domain": "[-27.365000, 153.310000]",
@@ -446,11 +445,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://store.pangaea.de/Publications/Roelfsema-etal_2018/MCCoral_Metadata.pdf"
+    "External Metadata Reference": "https://store.pangaea.de/Publications/Roelfsema-etal_2018/MCCoral_Metadata.pdf",
+    "Test Field": "Place holder text."
   },
   "Marine Acoustic Telemetry Data": {
     "Citation": "Hoenner X, Huveneers C, Steckenreuter A, Simpfendorfer C, Tattersall K, Jaine F, Atkins N, Babcock R, Brodie S, Burgess J, Campbell H, Heupel M, Pasquer P, Proctor R, Taylor MD, Udyawer V, Harcourt R (2017), Australia's continental-scale acoustic tracking database and its automated quality control process. Australian Ocean Data Network - DOI: 10.4225/69/5979810a7dd6f (http://dx.doi.org/10.4225/69/5979810a7dd6f)",
-    "Test Field": "Place holder text.",
     "Description": "This data was sourced from the Australian Ocean Data Network (https://animaltracking.aodn.org.au/) and contains marine acoustic detections associated with created and deployed transmitters throughout the Moreton Bay Marine Park from December 2009 through to October 2015. The data set contains over 100,000 detections of various species, including Australian bass, sandbar sharks, giant shovelnose rays, dugongs, and giant mud crabs. This data is a compilation of numerous projects conducted as part of the AODN and with connections to the Australian Institute of Marine Science (AIMS) and the Integrated Marine Observing System (IMOS).",
     "Time Period of Content": "2009-2015",
     "Spatial Domain": "[-27.781, 153.3048], [-27.3047, 153.6275]",
@@ -478,11 +477,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://catalogue-imos.aodn.org.au/geonetwork/srv/eng/catalog.search#/metadata/0ede6b3d-8635-472f-b91c-56a758b4e091"
+    "External Metadata Reference": "https://catalogue-imos.aodn.org.au/geonetwork/srv/eng/catalog.search#/metadata/0ede6b3d-8635-472f-b91c-56a758b4e091",
+    "Test Field": "Place holder text."
   },
   "Moreton Bay Broadscale Habitats": {
     "Citation": "� State of Queensland (Department of Environment and Science) 2023. Updated data available at http://qldspatial.information.qld.gov.au/catalogue//.",
-    "Test Field": "Place holder text.",
     "Description": "Broadscale habitat types identified within the Moreton Bay Marine Park as part of the 2007 zoning review.",
     "Time Period of Content": "12/09/2007-02/12/2007",
     "Spatial Domain": "[-28.000, 153.000], [-26.8, 153.700]",
@@ -510,11 +509,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={65603E85-B932-4BAB-9807-0864C83784ED}"
+    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={65603E85-B932-4BAB-9807-0864C83784ED}",
+    "Test Field": "Place holder text."
   },
   "Moreton Bay Marine Park Zoning": {
     "Citation": "� State of Queensland (Department of Environment and Science) 2023",
-    "Test Field": "Place holder text.",
     "Description": "This dataset represents the zoning from the Marine Parks (Moreton Bay) Zoning Plan 2008 (which comes into effect 1 March 2009).",
     "Time Period of Content": "03/12/2007-01/03/2009",
     "Spatial Domain": "[-27.933261, 153.010147], [-26.802236, 153.611605]",
@@ -542,11 +541,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={291ED890-9D3B-4637-BC5D-70FA49490D24}"
+    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={291ED890-9D3B-4637-BC5D-70FA49490D24}",
+    "Test Field": "Place holder text."
   },
   "Moreton Bay Marine Park Boundary": {
     "Citation": "State of Queensland (Department of Environment and Science) 2023. Updated data available at http://qldspatial.information.qld.gov.au/catalogue//.",
-    "Test Field": "Place holder text.",
     "Description": "These datasets represent the Moreton Bay Marine Park (which came into effect 1 March 2009).",
     "Time Period of Content": "16/07/2007",
     "Spatial Domain": "[-27.9, 153.0], [-26.8, 153.6]",
@@ -574,11 +573,11 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={65300831-53D8-477F-A408-C5835FCF06B0}"
+    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={65300831-53D8-477F-A408-C5835FCF06B0}",
+    "Test Field": "Place holder text."
   },
   "Moreton Bay Marine Park Designated Areas": {
     "Citation": "� State of Queensland (Department of Environment and Science) 2023. Updated data available at http://qldspatial.information.qld.gov.au/catalogue//.",
-    "Test Field": "Place holder text.",
     "Description": "This dataset represents the designated areas from the Marine Parks (Moreton Bay) Zoning Plan 2008 (which comes into effect 1 March 2009).",
     "Time Period of Content": "03/12/2007-21/09/2010",
     "Spatial Domain": "[-27.919326, 153.034679], [-26.804513, 153.563301]",
@@ -606,7 +605,8 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={DDC1C1C2-5589-463B-854A-D633ADB52D8E}"
+    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={DDC1C1C2-5589-463B-854A-D633ADB52D8E}",
+    "Test Field": "Place holder text."
   }
 }
 `;
