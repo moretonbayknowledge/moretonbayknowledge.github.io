@@ -12,7 +12,7 @@ export var DataJson = `
     "Browse Graphic": "### TO DO ###",
     "Data Set Credit - Where Credited": "### TO DO ###",
     "Data Set Size at Reception": "292 KB",
-    "Data Category": "Marine Life & Habitats",
+    "Data Category": "Marine Life & Habitats, Human Use & Users",
     "Indirect Spatial Reference": "Moreton Bay, Coral Reefs around Australia",
     "Direct Spatial Reference": "Point",
     "Point and Vector Object Information": "No spatial reference",
@@ -29,8 +29,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "### TO DO ###",
-    "Test Field": "Just seeing"
+    "External Metadata Reference": "### TO DO ###"
   },
   "Fish & Invertebrate Abundance Survey": {
     "Citation": "### TO DO ###",
@@ -61,8 +60,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "### TO DO ###",
-    "Test Field": "if this field"
+    "External Metadata Reference": "### TO DO ###"
   },
   "Shipping and Boating Channels": {
     "Citation": "### TO DO ###",
@@ -93,8 +91,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "### TO DO ###",
-    "External Metadata Reference": "https://www.publications.qld.gov.au/dataset/brisbane-port-procedures-and-information-for-shipping/resource/55e36402-ea28-499f-a46e-93368765337e",
-    "Test Field": "populates."
+    "External Metadata Reference": "https://www.publications.qld.gov.au/dataset/brisbane-port-procedures-and-information-for-shipping/resource/55e36402-ea28-499f-a46e-93368765337e"
   },
   "Boating Activity": {
     "Citation": "### TO DO ###",
@@ -125,8 +122,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "N/A",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "N/A"
   },
   "Moreton Bay Social Values Survey": {
     "Citation": "### TO DO ###",
@@ -157,8 +153,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "### TO DO ###",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "### TO DO ###"
   },
   "Seagrass Extent Map 2004": {
     "Citation": "Roelfsema, Christiaan M; Kovacs, Eva M; Moffatt, David; Phinn, Stuart R; Hoseck, Steve (2015): Habitat map of seagrass cover derived from a supervised moderate-spatial-resolution multi-spectral satellite image, integrated with manual delineation and coincident field data, Moreton Bay, 2011, with link to shapefile [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.846271",
@@ -189,8 +184,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "### TO DO ###",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "### TO DO ###"
   },
   "Seagrass Extent Map 2011": {
     "Citation": "Roelfsema, Christiaan M; Kovacs, Eva M; Moffatt, David; Phinn, Stuart R; Hoseck, Steve (2015): Habitat map of seagrass cover derived from a supervised moderate-spatial-resolution multi-spectral satellite image, integrated with manual delineation and coincident field data, Moreton Bay, 2011, with link to shapefile [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.846271",
@@ -221,8 +215,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "### TO DO ###",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "### TO DO ###"
   },
   "Seagrass Extent Map 2015": {
     "Citation": "Kovacs, Eva M; Roelfsema, Christiaan M; Phinn, Stuart R; Lyons, Mitchell; Udy, James; Baltais, Simon (2021): Seagrass cover map for the optically complex waters of Moreton Bay, Queensland, Australia (2015) XXX [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.937501",
@@ -253,8 +246,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "### TO DO ###",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "### TO DO ###"
   },
   "Wetland Extent Classifications": {
     "Citation": "### TO DO ###",
@@ -285,8 +277,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/viewMetadataDetails.page?uuid=%7B135EB151-D406-4094-9E9F-40ABC5AA0C7B%7D",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/viewMetadataDetails.page?uuid=%7B135EB151-D406-4094-9E9F-40ABC5AA0C7B%7D"
   },
   "Satellite Mosaic of Moreton Bay 2018": {
     "Citation": "Allen Coral Atlas (2020). Imagery, maps and monitoring of the world's tropical coral reefs. doi.org/10.5281/zenodo.3833242 Allen Coral Atlas maps, bathymetry and map statistics are � 2020 Allen Coral Atlas Partnership and Vulcan, Inc. and are licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) The Satellite Coral Reef Mosaic is � 2020 Planet Labs and licensed CC BY-SA-NC 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
@@ -317,8 +308,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "No",
-    "External Metadata Reference": "### TO DO ###",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "### TO DO ###"
   },
   "Satellite Mosaic of Moreton Bay 2019": {
     "Citation": "Allen Coral Atlas (2020). Imagery, maps and monitoring of the world's tropical coral reefs. doi.org/10.5281/zenodo.3833242 Allen Coral Atlas maps, bathymetry and map statistics are � 2020 Allen Coral Atlas Partnership and Vulcan, Inc. and are licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) The Satellite Coral Reef Mosaic is � 2020 Planet Labs and licensed CC BY-SA-NC 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
@@ -349,8 +339,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "No",
-    "External Metadata Reference": "### TO DO ###",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "### TO DO ###"
   },
   "Satellite Mosaic of Moreton Bay 2020": {
     "Citation": "Allen Coral Atlas (2020). Imagery, maps and monitoring of the world's tropical coral reefs. doi.org/10.5281/zenodo.3833242 Allen Coral Atlas maps, bathymetry and map statistics are � 2020 Allen Coral Atlas Partnership and Vulcan, Inc. and are licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) The Satellite Coral Reef Mosaic is � 2020 Planet Labs and licensed CC BY-SA-NC 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)",
@@ -381,8 +370,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "No",
-    "External Metadata Reference": "### TO DO ###",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "### TO DO ###"
   },
   "Reef Extent Map": {
     "Citation": "Roelfsema, Christiaan M; Loder, Jennifer; Host, Rachel; Kovacs, Eva M (2018): Benthic inventory of reefal areas in Moreton Bay, Australia [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.892402",
@@ -413,8 +401,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://store.pangaea.de/Publications/Roelfsema-etal_2018/MCCoral_Metadata.pdf",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "https://store.pangaea.de/Publications/Roelfsema-etal_2018/MCCoral_Metadata.pdf"
   },
   "Benthic Inventory of Moreton Bay Reefs": {
     "Citation": "Roelfsema, Christiaan M; Loder, Jennifer; Host, Rachel; Kovacs, Eva M (2018): Benthic inventory of reefal areas in Moreton Bay, Australia [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.892402",
@@ -445,8 +432,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://store.pangaea.de/Publications/Roelfsema-etal_2018/MCCoral_Metadata.pdf",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "https://store.pangaea.de/Publications/Roelfsema-etal_2018/MCCoral_Metadata.pdf"
   },
   "Marine Acoustic Telemetry Data": {
     "Citation": "Hoenner X, Huveneers C, Steckenreuter A, Simpfendorfer C, Tattersall K, Jaine F, Atkins N, Babcock R, Brodie S, Burgess J, Campbell H, Heupel M, Pasquer P, Proctor R, Taylor MD, Udyawer V, Harcourt R (2017), Australia's continental-scale acoustic tracking database and its automated quality control process. Australian Ocean Data Network - DOI: 10.4225/69/5979810a7dd6f (http://dx.doi.org/10.4225/69/5979810a7dd6f)",
@@ -477,8 +463,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://catalogue-imos.aodn.org.au/geonetwork/srv/eng/catalog.search#/metadata/0ede6b3d-8635-472f-b91c-56a758b4e091",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "https://catalogue-imos.aodn.org.au/geonetwork/srv/eng/catalog.search#/metadata/0ede6b3d-8635-472f-b91c-56a758b4e091"
   },
   "Moreton Bay Broadscale Habitats": {
     "Citation": "� State of Queensland (Department of Environment and Science) 2023. Updated data available at http://qldspatial.information.qld.gov.au/catalogue//.",
@@ -509,8 +494,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={65603E85-B932-4BAB-9807-0864C83784ED}",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={65603E85-B932-4BAB-9807-0864C83784ED}"
   },
   "Moreton Bay Marine Park Zoning": {
     "Citation": "� State of Queensland (Department of Environment and Science) 2023",
@@ -541,8 +525,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={291ED890-9D3B-4637-BC5D-70FA49490D24}",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={291ED890-9D3B-4637-BC5D-70FA49490D24}"
   },
   "Moreton Bay Marine Park Boundary": {
     "Citation": "State of Queensland (Department of Environment and Science) 2023. Updated data available at http://qldspatial.information.qld.gov.au/catalogue//.",
@@ -573,8 +556,7 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={65300831-53D8-477F-A408-C5835FCF06B0}",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={65300831-53D8-477F-A408-C5835FCF06B0}"
   },
   "Moreton Bay Marine Park Designated Areas": {
     "Citation": "� State of Queensland (Department of Environment and Science) 2023. Updated data available at http://qldspatial.information.qld.gov.au/catalogue//.",
@@ -605,8 +587,69 @@ export var DataJson = `
     "Metadata Standard Version": "5",
     "Metadata Time Conversion": "ss:mm:hh dd/mm/yyyy",
     "Available in Platform": "Yes",
-    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={DDC1C1C2-5589-463B-854A-D633ADB52D8E}",
-    "Test Field": "Place holder text."
+    "External Metadata Reference": "https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={DDC1C1C2-5589-463B-854A-D633ADB52D8E}"
+  },
+  "20": {
+    "Citation": null,
+    "Description": null,
+    "Time Period of Content": null,
+    "Spatial Domain": null,
+    "Keywords coral reefs, reef health, marine ecosystems, marine monitoring, biodiversity, substrate cover ### TO DO ###": null,
+    "Access Constraints": null,
+    "Use Constraints": null,
+    "Point of Contact": null,
+    "Browse Graphic": null,
+    "Data Set Credit - Where Credited": null,
+    "Data Set Size at Reception": null,
+    "Data Category": null,
+    "Indirect Spatial Reference": null,
+    "Direct Spatial Reference": null,
+    "Point and Vector Object Information": null,
+    "Horizontal Coordinate System Definition": null,
+    "Vertical Coordinate System Definition": null,
+    "Detailed Description": null,
+    "Overview Description": null,
+    "Data Custodian": null,
+    "Resource Description": null,
+    "Standard Order Process": null,
+    "Technical Prerequisites": null,
+    "Metadata Date": null,
+    "Metadata Standard Name": null,
+    "Metadata Standard Version": null,
+    "Metadata Time Conversion": null,
+    "Available in Platform": null,
+    "External Metadata Reference": null
+  },
+  "21": {
+    "Citation": "1",
+    "Description": "1",
+    "Time Period of Content": "1",
+    "Spatial Domain": "1",
+    "Keywords coral reefs, reef health, marine ecosystems, marine monitoring, biodiversity, substrate cover ### TO DO ###": "1",
+    "Access Constraints": "1",
+    "Use Constraints": "1",
+    "Point of Contact": "1",
+    "Browse Graphic": "1",
+    "Data Set Credit - Where Credited": "1",
+    "Data Set Size at Reception": "1",
+    "Data Category": "1",
+    "Indirect Spatial Reference": "1",
+    "Direct Spatial Reference": "1",
+    "Point and Vector Object Information": "1",
+    "Horizontal Coordinate System Definition": "1",
+    "Vertical Coordinate System Definition": "1",
+    "Detailed Description": "1",
+    "Overview Description": "1",
+    "Data Custodian": "1",
+    "Resource Description": "1",
+    "Standard Order Process": "1",
+    "Technical Prerequisites": "1",
+    "Metadata Date": "1",
+    "Metadata Standard Name": "1",
+    "Metadata Standard Version": "1",
+    "Metadata Time Conversion": "1",
+    "Available in Platform": "1",
+    "External Metadata Reference": "1"
   }
 }
 `;
