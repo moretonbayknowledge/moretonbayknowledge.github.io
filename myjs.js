@@ -95,7 +95,7 @@ class DataSource {
         data_set_credit, data_set_size_at_reception, data_category, indirect_spatial_reference, direct_spatial_reference, point_and_vector_object_information,
         horizontal_coordinate_system_definition, vertical_coordinate_system_definition, detailed_description, overview_description, data_custodian, resource_description,
         standard_order_process, technical_prerequisites, metadata_date, metadata_standard_name, metadata_standard_version, metadata_time_conversion, available_in_platform,
-        external_metadata_reference, test_field
+        external_metadata_reference
     ) {
         this.dataName = dataName;
         this.citation = citation;
@@ -126,7 +126,6 @@ class DataSource {
         this.metadata_time_conversion = metadata_time_conversion;
         this.available_in_platform = available_in_platform;
         this.external_metadata_reference = external_metadata_reference;
-        this.test_field = test_field;
 
     }
 }
@@ -159,8 +158,7 @@ var headerMapping = {
     "metadata_standard_version": "Metadata Standard Version",
     "metadata_time_conversion": "Metadata Time Conversion",
     "available_in_platform": "Available in Platform",
-    "external_metadata_reference": "External Metadata Reference",
-    "test_field": "Test Field"
+    "external_metadata_reference": "External Metadata Reference"
 }
 
 //Initialise list that will contain DataSource classes
@@ -214,8 +212,7 @@ for (var i in jsonData) {
         dataArray[27],
         dataArray[28],
         dataArray[29],
-        dataArray[30],
-        dataArray[31]
+        dataArray[30]
     )
     )
     for (var j in dataArray[12].split(", ")){
@@ -1209,5 +1206,4 @@ var searchF = document.getElementById("metadata-search")
 
 searchF.addEventListener('input', function(e) {
     filterSearch()
-
 })
