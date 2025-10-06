@@ -12,7 +12,7 @@ export var DataJson = `
     "Browse Graphic": "### TO DO ###",
     "Data Set Credit - Where Credited": "### TO DO ###",
     "Data Set Size at Reception": "292 KB",
-    "Data Category": "Marine Life & Habitats",
+    "Data Category": "Marine Life & Habitats, Human Use & Users",
     "Indirect Spatial Reference": "Moreton Bay, Coral Reefs around Australia",
     "Direct Spatial Reference": "Point",
     "Point and Vector Object Information": "No spatial reference",
